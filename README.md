@@ -1,4 +1,6 @@
-# Assignment 2 (Wk 2) - Build A Cookie Clicker Game
+No. of cookies automatically increases by 1 cps, click button to add a cookie - score saved to LS on refresh (reset button clears score)
+
+# Assignment 3 (Wk 3) - Cookie Clicker, part 1
 - original game: https://orteil.dashnet.org/cookieclicker/
 - exmaple gane: https://cookies-ruby.vercel.app/
 - 🎯 Style the button. Draw a cookie, use stock assets, or use a giant emoji! 🍪
